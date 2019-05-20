@@ -3,7 +3,7 @@
 <svg version="1.2" baseProfile="tiny" id="g-hadden-xsmall-img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 470.872 1077.263" xml:space="preserve">
 <g>
-	<rect fill="#FFFFFF" width="470.872" height="1080.736"/>
+	<rect fill="#FFFFFF" width="470.872" height="1077.263"/>
 	<rect x="135.371" y="718.446" fill="#EDE2E5" width="317.783" height="21.378"/>
 	<rect x="135.371" y="208.306" fill="#EDE2E5" width="317.783" height="21.378"/>
 	<rect x="135.371" y="238.315" fill="#EDE2E5" width="317.783" height="21.378"/>
@@ -103,7 +103,7 @@
 		</g>
 	</g>
 	
-		<line fill="none" stroke="#8C3541" stroke-width="0.75" stroke-miterlimit="10" x1="413.875" y1="931.505" x2="413.875" y2="949.932"/>
+		<line fill="none" stroke="#8C3541" stroke-width="0.75" stroke-miterlimit="10" x1="446.875" y1="931.505" x2="446.875" y2="949.932"/>
 	<g>
 		<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M183.46,563.79
 			c0,6.753,4.978,12.405,11.685,13.911"/>
