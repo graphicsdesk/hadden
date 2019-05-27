@@ -1,2 +1,5 @@
-# graphics-html
-ai2html output for static graphics.
+**Illustrator files and ai2html output for static graphics.**
+
+## Before Publication
+
+Remember to add a `width: 100%` style on the largest artboard.
